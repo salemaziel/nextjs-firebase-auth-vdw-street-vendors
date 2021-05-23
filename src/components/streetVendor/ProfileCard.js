@@ -1,6 +1,8 @@
 import React from "react";
 //import EstimateModal from "../../EstimateModal"
 import EstimateForm from "./EstimateForm"
+import AuthSection from "components/AuthSection";
+import { useRouter } from "next/router";
 
 //import {TamalesLady} from "images/tamales-lady.jpg"
 //import EscoArch from "../../../images/esco-arch2.jpg"
